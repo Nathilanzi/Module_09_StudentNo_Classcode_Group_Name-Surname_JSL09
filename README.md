@@ -1,42 +1,25 @@
-# [JSL09] Submission: Personal Dashboard Chrome Extension
 
-You will:
-1. Use the provided Starter Code Repository: https://github.com/CodeSpace-Academy/Module_09_StudentNo_Classcode_Group_Name-Surname_JSL09
-2. Code your solution.
-3. Commit changes to your GitHub repository.
-4. Submit the GitHub Repository Link to the LMS [JSL09] Submission Project Tab.
+Learning Reflections README
+Overview
+This README reflects on the implementation of a certificate generator system for an online learning platform. The system dynamically generates certificates based on user inputs and displays them in a modal for download or viewing.
 
-In this project you will follow along with the Scrimba Promise Rejection capstone to create a Personal Dashboard for your Chrome Browser. Note you are only required to submit the project code. You DO NOT need to submit the deployed Chrome extension. 
+Reflections
+The provided JavaScript code demonstrates proficiency in DOM manipulation and event handling to create dynamic content and manage user interactions. It effectively generates certificate content based on user inputs and displays them in a modal for user interaction.
 
-Scrimba Reference Link: https://scrimba.com/learn/frontend/promise-rejection-coc4a4e4d8d208ab33b190dd5
+Areas of Mastery
+DOM Manipulation: The code utilizes DOM manipulation techniques to dynamically generate and update certificate content based on user inputs, showcasing proficiency in working with the Document Object Model.
 
-![](<[JSL09 Solution].png>)
-Note that this background image is dynamically generated so your's will look different.
+Event Handling: Event listeners are employed to respond to user interactions such as form submissions and modal closures, demonstrating mastery in handling user events.
 
-## What You Need to Do:
+Challenges Faced
+Form Validation: Implementing form validation logic to ensure all required fields are filled posed challenges in managing user inputs and providing feedback for incomplete submissions.
 
-1. Clone the provided Starter Code Repository to your local development environment (e.g., VSCode): https://github.com/CodeSpace-Academy/Module_09_StudentNo_Classcode_Group_Name-Surname_JSL09
-2. Open the cloned project in your code editor.
-3. Code your solution for the challenge as per the provided instructions.
-4. If you have coded your Personal Dashboard challenge in Scrimba, you will need to download the zip folder of your project files. Unzip the project files into your JSL09 project repo on GitHub. Make sure to NOT use the Scrimba README. Instead you will keep your starter code README.
-5. Commit your changes to your local Git repository with meaningful commit messages.
-6. Push your local Git repository to your GitHub account.
-7. Verify that the changes have been successfully pushed to your GitHub repository.
+Modal Interaction: Managing modal visibility and interaction, including closing the modal when clicking outside its content area, required careful consideration of event delegation and DOM manipulation.
 
-![alt text](download-scrimba-files.png)
-You can download your Scrimba files in the bottom right hand corner of the Scrimba IDE panel. 
+Areas for Improvement
+User Feedback: Enhancing user feedback mechanisms such as error messages for incomplete form submissions or success notifications upon generating certificates could improve the user experience.
 
-## What You Need to Include:
+Accessibility: Ensuring accessibility features such as keyboard navigation and screen reader compatibility would make the certificate generator system more inclusive and usable for all users.
 
-1. Ensure that your code includes the necessary modifications to meet the challenge requirements.
-2. Your GitHub repository should contain the updated code files.
-
-## How We'll Assess Your Work:
-
-1. We will review your GitHub repository to ensure that it contains the updated code files.
-2. We will assess the modifications made to the code to verify that they effectively meet the challenge requirements.
-3. We will consider the commit history and meaningful commit messages to evaluate your coding process.
-
-
-
-
+Overall Learning Experience
+The project provided valuable hands-on experience in building interactive web applications using JavaScript. It offered opportunities to practice DOM manipulation, event handling, and user interface design techniques. Moving forward, continued practice and exploration of advanced JavaScript concepts will contribute to further skill development and proficiency in web development.
